@@ -6,10 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="/POCC/assets/css/vue.css">
-  <link rel="stylesheet" href="/POCC/assets/css/gitalk.css">
-  <link rel="stylesheet" href="/POCC/assets/css/sidebar.min.css">
-  <link rel="stylesheet" href="/POCC/assets/css/sidebar-folder.min.css">
+  <link rel="stylesheet" href="/../assets/css/vue.css">
+  <link rel="stylesheet" href="/../assets/css/gitalk.css">
+  <link rel="stylesheet" href="/../assets/css/sidebar.min.css">
+  <link rel="stylesheet" href="/../assets/css/sidebar-folder.min.css">
   <script>
       var _hmt = _hmt || [];
       (function() {
@@ -69,7 +69,7 @@
           '/zh-cn/': '点击复制',
           '/ru/': 'Скопировать в буфер обмена',
           '/de-de/': 'Klicken Sie zum Kopieren',
-          '/es/': 'Haga clic para copiar',assets
+          '/es/': 'Haga clic para copiar',
           '/': 'Copy to clipboard',
         },
         errorText: {
@@ -104,17 +104,26 @@
     }                                 
   </script>
 
-<script src="/POCC/assets/js/docsify-copy-code.min.js"></script>
-<script src="/POCC/assets/js/md5.js"></script>
-<script src="/POCC/assets/js/docsify.min.js"></script>
-<script src="/POCC/assets/js/gitalk.min.js"></script>
+<script src="/../assets/js/docsify-copy-code.min.js"></script>
+<script src="/../assets/js/md5.js"></script>
+<script src="/../assets/js/docsify.min.js"></script>
+<script src="/../assets/js/gitalk.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-<script src="/POCC/assets/js/docsify-pagination.min.js"></script>
-<script src="/POCC/assets/js/zoom-image.js"></script>
-<script src="/POCC/assets/js/prism-bash.js"></script>
-<script src="/POCC/assets/js/prism-java.min.js"></script>
-<script src="/POCC/assets/js/countable.js"></script>
-<script src="/POCC/assets/js/prism-c.min.js"></script>
-<script src="/POCC/assets/js/docsify-dark-switcher.js"></script>
+<script src="/../assets/js/docsify-pagination.min.js"></script>
+<script src="/../assets/js/zoom-image.js"></script>
+<script src="/../assets/js/prism-bash.js"></script>
+<script src="/../assets/js/prism-java.min.js"></script>
+<script src="/../assets/js/countable.js"></script>
+<script src="/../assets/js/prism-c.min.js"></script>
+<script src="/../assets/js/docsify-dark-switcher.js"></script>
+<script src="/../assets/js/docsify-sidebar-collapse.min.js"></script>
+
+<!-- 实现离线化 -->
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('pwa.js')
+  }
+</script>
+
 </body>
 </html>
