@@ -1,0 +1,15 @@
+# 操作系统相关漏洞
+
+* [LinuxDirtyPipe-权限提升漏洞-CVE-2022-0847](/Awesome-POC/操作系统漏洞/Linux-DirtyPipe-权限提升漏洞-CVE-2022-0847.md)
+* [Linux-eBPF-权限提升漏洞-CVE-2022-23222](/Awesome-POC/操作系统漏洞/Linux-eBPF-权限提升漏洞-CVE-2022-23222.md)
+* [Linux-kernel-权限提升漏洞-CVE-2021-3493](/Awesome-POC/操作系统漏洞/Linux-kernel-权限提升漏洞-CVE-2021-3493.md)
+* [Linux-openvswitch-权限提升漏洞-CVE-2022-2639](/Awesome-POC/操作系统漏洞/Linux-openvswitch-权限提升漏洞-CVE-2022-2639)
+* [Linux-Polkit-权限提升漏洞-CVE-2021-4034](/Awesome-POC/操作系统漏洞/Linux-Polkit-权限提升漏洞-CVE-2021-4034.md)
+* [Linux-sudo-权限提升漏洞-CVE-2021-3156](/Awesome-POC/操作系统漏洞/Linux-sudo-权限提升漏洞-CVE-2021-3156.md)
+* [Linux-sudo-权限提升漏洞-CVE-2023-22809](/Awesome-POC/操作系统漏洞/Linux-sudo-权限提升漏洞-CVE-2023-22809.md)
+* [Shellshock-破壳漏洞-CVE-2014-6271](/Awesome-POC/操作系统漏洞/Shellshock-破壳漏洞-CVE-2014-6271.md)
+* [Windows-远程桌面服务漏洞-CVE-2019-0708](/Awesome-POC/操作系统漏洞/Windows-远程桌面服务漏洞-CVE-2019-0708.md)
+* [Windows-CryptoAPI-欺骗漏洞-CVE-2020-0601](/Awesome-POC/操作系统漏洞/Windows-CryptoAPI-欺骗漏洞-CVE-2020-0601.md)
+* [Windows-SMB-远程代码执行漏洞-CVE-2020-0796](/Awesome-POC/操作系统漏洞/Windows-SMB-远程代码执行漏洞-CVE-2020-0796.md)
+* [Windows-Win32k-本地提权漏洞-CVE-2021-1732](/Awesome-POC/操作系统漏洞/Windows-Win32k-本地提权漏洞-CVE-2021-1732.md)
+* [Windows-Win32k-内核提权漏洞-CVE-2022-21882](/Awesome-POC/操作系统漏洞/Windows-Win32k-内核提权漏洞-CVE-2022-21882.md)
