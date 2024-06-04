@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="/../assets/css/vue.css">
   <link rel="stylesheet" href="/../assets/css/gitalk.css">
   <link rel="stylesheet" href="/../assets/css/sidebar.min.css">
-  <link rel="stylesheet" href="/../assets/css/sidebar-folder.min.css">
   <script>
       var _hmt = _hmt || [];
       (function() {
@@ -45,18 +44,18 @@
     window.$docsify = {
       name: 'Awesome POC',
       repo: 'https://github.com/holdyounger/holdyounger.github.io',
-      loadSidebar: 'SUMMARY.md',
+      loadSidebar: true,
       homepage: 'README.md',
       auto2top: true,
       coverpage: false,
-      loadSidebar: true,
+      //小屏设备下合并导航栏到侧边栏
+      mergeNavbar: true,
       alias: {
         // '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/README.md': '/README.md'
       },
       // maxLevel: 4,
       subMaxLevel: 3,
-      sidebarDisplayLevel: 2, // set sidebar display level
       search: {
         paths: 'auto',
         placeholder: '🔍 Type to search ',
@@ -116,8 +115,6 @@
 <script src="/../assets/js/countable.js"></script>
 <script src="/../assets/js/prism-c.min.js"></script>
 <script src="/../assets/js/docsify-dark-switcher.js"></script>
-<script src="/../assets/js/docsify-sidebar-collapse.min.js"></script>
-
 <!-- 实现离线化 -->
 <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
