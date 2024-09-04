@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "92d435778d420817",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e4c4f47b5ffb7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d8b1150eb8a2481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Awesome-POC/OA产品漏洞/帆软报表-2012-信息泄露漏洞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d28d538d511c020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_sidebar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fed224850582da6",
+    "type": "split",
+    "children": [
+      {
+        "id": "094982491b2474e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95f603e3c9ccd5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44d7f2c8cbe7cc59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9f63b146c004da6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e42b0437175663ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d574b597d00b7ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e801a20bceb7eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/_sidebar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1004866fb9f905a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/_sidebar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c4b361dbd3f2f41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fd555715db0a249",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/_sidebar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1d28d538d511c020",
+  "lastOpenFiles": [
+    "docs/Awesome-POC/Web应用漏洞/README.md",
+    "docs/Awesome-POC/Web应用漏洞/1Panel-loadfile-后台文件读取漏洞.md",
+    "docs/Awesome-POC/OA产品漏洞/README.md",
+    "docs/Awesome-POC/OA产品漏洞/帆软报表-2012-信息泄露漏洞.md",
+    "docs/Awesome-POC/CMS漏洞/README.md",
+    "docs/Awesome-POC/CHECKLIST/README.md",
+    "docs/Awesome-POC/中间件漏洞/README.md",
+    "docs/Awesome-POC/云安全漏洞/README.md",
+    "docs/Awesome-POC/云安全漏洞/Docker-daemon-api-未授权访问漏洞-RCE.md",
+    "docs/Awesome-POC/云安全漏洞/VMware-vCenter-Server-远程代码执行漏洞-CVE-2021-21972.md",
+    "docs/Awesome-POC/网络设备漏洞/README.md",
+    "docs/Awesome-POC/网络设备漏洞/Zyxel-NBG2105-身份验证绕过-CVE-2021-3297.md",
+    "docs/Awesome-POC/数据库漏洞/README.md",
+    "docs/Awesome-POC/数据库漏洞/Redis-Lua-沙盒绕过命令执行-CVE-2022-0543.md",
+    "欢迎.md"
+  ]
+}
