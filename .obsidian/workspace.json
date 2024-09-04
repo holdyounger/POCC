@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/Awesome-POC/其他漏洞/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be82c1f8d4210d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Awesome-POC/其他漏洞/Windows-Chrome-远程命令执行漏洞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "542cc30f94513d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Awesome-POC/其他漏洞/Samba-远程命令执行漏洞-CVE-2017-7494.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbb2353cd9651bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Awesome-POC/开发语言漏洞/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/Awesome-POC/开发语言漏洞/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/Awesome-POC/开发语言漏洞/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_sidebar.md"
+                "file": "docs/Awesome-POC/开发语言漏洞/README.md"
               }
             }
           }
@@ -159,8 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d28d538d511c020",
+  "active": "dbbb2353cd9651bf",
   "lastOpenFiles": [
+    "docs/Awesome-POC/Web应用漏洞/360天擎-rptsvcsyncpoint-前台SQL注入.md",
+    "docs/Awesome-POC/其他漏洞/README.md",
+    "docs/Awesome-POC/其他漏洞/Samba-远程命令执行漏洞-CVE-2017-7494.md",
+    "docs/Awesome-POC/其他漏洞/Windows-Chrome-远程命令执行漏洞.md",
+    "docs/_sidebar.md",
     "docs/Awesome-POC/Web应用漏洞/README.md",
     "docs/Awesome-POC/Web应用漏洞/1Panel-loadfile-后台文件读取漏洞.md",
     "docs/Awesome-POC/OA产品漏洞/README.md",
